@@ -13,11 +13,11 @@ let colors:string[] = ["red", "green", "blue"];
 let myNumbers: number[] = [2,4,6]
 
 //Classes Annotation and inference
-class Car{
+class Things{
 
 }
 
-let car:Car = new Car();
+let cathing:Things = new Things();
 
 //Object literal Annotation and inference
 
