@@ -8,5 +8,5 @@ import {CustomMap} from "./CustomMap";
 // console.log(user);
 // console.log(company);
 
-const map= new CustomMap();
+const map= new CustomMap("map");
 
