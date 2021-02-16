@@ -1,6 +1,3 @@
-import {User} from "./User";
-import {Company} from "./Company";
-
 //Interface to instruct every other class 
 // on How they can be an argument to "addMarker"
 interface Mappable{
